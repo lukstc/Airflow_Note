@@ -1,2 +1,2 @@
 # Airflow_Note
-Airflow learning note and DAG examples
+Airflow learning notes
